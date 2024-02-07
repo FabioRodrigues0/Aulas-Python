@@ -1,2 +1,2 @@
-# Aulas-Python
- Repositorio das Aulas de Python Inicial
+# UFCD 10793 - Fundamentos de Python
+ Repositório das aulas de Python inicial contedo os exercícios e projetos.
